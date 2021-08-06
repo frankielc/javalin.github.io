@@ -154,6 +154,6 @@ If a developer stores these results in variables then they will have hundreds of
 but the discoverability remains equivalent to Javalin, in my opinion.
 </blockquote>
 
-I largely with what is being said (although I think it's a little unrealistic to put your
+I largely agree with what is being said (although I think it's a little unrealistic to put your
 entire public API in one package). The point of this post was not to equate the two,
 just to point out one vector that is often overlooked when designing an API.
